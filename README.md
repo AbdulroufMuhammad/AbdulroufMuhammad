@@ -65,10 +65,3 @@
 </p>
 
 ---
-
-<br clear="both">
-
-<!-- 🐍 Snake contribution animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abdulroufmuhammad/abdulroufmuhammad/output/snake.svg" alt="Snake animation" />
-</div>
