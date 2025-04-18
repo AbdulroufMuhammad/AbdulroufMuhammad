@@ -65,9 +65,3 @@
 </p>
 
 ---
-
-<h3>🐍 Contribution Snake:</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdulroufmuhammad/abdulroufmuhammad/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
